@@ -4,7 +4,7 @@ Please change me. To what?.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: Banana I guess.
 
 Your favorite city: ...
 
