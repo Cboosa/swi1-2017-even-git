@@ -12,7 +12,7 @@ Your favorite vegetable: Tomato.
 
 Your favorite color: Orange.
 
-Your favorite icecream: ...
+Your favorite icecream: Chocolate.
 
 Your favorite season: ...
 
