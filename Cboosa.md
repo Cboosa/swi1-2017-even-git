@@ -6,7 +6,7 @@ Please change me. To what?.
 
 Your favorite fruit: Banana I guess.
 
-Your favorite city: ...
+Your favorite city: Brno!
 
 Your favorite vegetable: ...
 
