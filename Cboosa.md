@@ -14,7 +14,7 @@ Your favorite color: Orange.
 
 Your favorite icecream: Chocolate.
 
-Your favorite season: ...
+Your favorite season: Summer.
 
 
 (after this, please follow the instructions in README.md)
